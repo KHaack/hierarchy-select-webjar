@@ -1,4 +1,4 @@
-# hierarchy-select-webjar
+# hierarchy-select-webjars
 
 WebJar for https://github.com/NeoFusion/hierarchy-select
 
